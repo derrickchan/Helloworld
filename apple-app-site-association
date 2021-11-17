@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "AZZYENWKMK.com.macaupass.dev",
+                "paths": ["/startApp/*"]
+            }
+        ]
+    }
+}
